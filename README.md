@@ -16,7 +16,7 @@ Tu tarea consiste en realizar pruebas E2E en seis features diferentes de la apli
 2. Utilizando la aplicación elegida, realiza una prueba E2E para cada feature.
 3. Documenta tus pasos y resultados en el archivo que se te envio adjunto en el email. El mismo puede ser totalmente modificado, en contenido y estilo, el que se te envia contiene solo campos basicos.
 4. Sugiere mejoras para los procesos en un archivo de prueba `Mejoras.md`.
-5. Haz un commit del archivo `Mejoras.md` y pushealo a una rama 'feature-mejoras'.
+5. Haz un commit del archivo `Mejoras.md` y pushealo a una rama 'feature-mejoras' en tu repositorio a eleccion (forkeado o uno nuevo creado publico).
 
 ## Ejemplo de Prueba E2E en Excel
 
