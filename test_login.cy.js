@@ -10,7 +10,7 @@ describe('Login Form', () =>
   })
 
     /* 
-      Check is login window is showing       
+      Check if login window is showing       
     */
     it('Login form displaying', () =>
     {
